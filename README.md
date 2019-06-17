@@ -1,7 +1,6 @@
-# Realtime-stream-in-Twitter
-Get stream in realtime using Node.js
-#Functions
-    -get block_list of user
-    -get top 10 hashtags
-    -get stream in realtime
-    -block the special account from user
+# Twitter Node Streaming Example
+### Steps:
+1. clone repo
+1. run ```npm i```
+1. rename _config_example.js to _config.js
+1. add api keys

@@ -1,0 +1,23 @@
+body {
+ background-color: rgb(95, 165, 218);
+}
+
+#trump #clinton {
+  float: right;
+  width: 110% !important;
+  height: 110% !important;
+  margin-left: 15%;
+}
+
+.name {
+  font-weight:bold;
+  font-size:30px;
+  float: right;
+}
+
+.img {
+  width: 150%;
+  height: 150%;
+  border-radius: 50%;
+  border: 2px solid #fff;
+}
